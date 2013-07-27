@@ -1,4 +1,4 @@
-ByteCode Providers for NHibernate 3.3.1
+ByteCode Providers for NHibernate 3.3.3
 =======================================
 
 This repository contains the Bytcode Provider projects that were deprecated in NHibernate 3.2:
@@ -7,7 +7,7 @@ This repository contains the Bytcode Provider projects that were deprecated in N
 * NHibernate.ByteCode.LinFu (now the default NHibernate proxy implementation)
 * NHibernate.ByteCode.Spring
 
-The source code was taken from the NHibernate 3.1 release, and updated to work with NHibernate 3.3.1.
+The source code was taken from the NHibernate 3.1 release, and updated to work with NHibernate 3.3.3.
 
 Please visit the NHibernate GitHub repo for more information on the NHibernate project: <https://github.com/nhibernate/nhibernate-core>.
 
