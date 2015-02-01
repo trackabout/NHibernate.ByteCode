@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>$id$-v4</id>
-    <version>$version$-rc1</version>
+    <version>$version$-rc2</version>
     <title>NHibernate ByteCode Castle Unofficial</title>
     <authors>$author$ and contributors</authors>
     <owners>nicdex</owners>
