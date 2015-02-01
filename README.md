@@ -1,4 +1,4 @@
-ByteCode Providers for NHibernate 3.3.3
+ByteCode Providers for NHibernate 4.0
 =======================================
 
 This repository contains the Bytcode Provider projects that were deprecated in NHibernate 3.2:
