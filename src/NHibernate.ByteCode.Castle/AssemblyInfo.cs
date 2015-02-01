@@ -14,3 +14,4 @@ using System.Security;
 [assembly: AssemblyFileVersionAttribute("4.0.3.4000")]
 [assembly: AssemblyDelaySignAttribute(false)]
 [assembly: AllowPartiallyTrustedCallersAttribute()]
+[assembly: AssemblyKeyFileAttribute(@"..\..\NHibernate.ByteCode.snk")]

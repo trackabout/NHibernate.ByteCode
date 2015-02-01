@@ -2,9 +2,9 @@
 <package >
   <metadata>
     <id>$id$-v4</id>
-    <version>$version$-rc2</version>
+    <version>$version$-rc3</version>
     <title>NHibernate ByteCode Castle Unofficial</title>
-    <authors>$author$ and contributors</authors>
+    <authors>nicdex</authors>
     <owners>nicdex</owners>
     <licenseUrl>http://opensource.org/licenses/LGPL-2.1</licenseUrl>
     <projectUrl>https://github.com/nicdex/NHibernate.ByteCode</projectUrl>
